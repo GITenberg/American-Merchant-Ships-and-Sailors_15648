@@ -1,0 +1,35 @@
+_repo: American-Merchant-Ships-and-Sailors_15648
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15648-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Abbot, Willis J. (Willis John)
+    alias: Abbot, Willis John
+    birthdate: 1863
+    deathdate: 1934
+    gutenberg_agent_id: '6179'
+    url: http://www.gutenberg.org/2009/agents/6179
+    wikipedia: http://en.wikipedia.org/wiki/Willis_J._Abbot
+description: '"In all times and ages, the deeds of the men who sail the deep as its
+  policemen or it soldiery have been sung in praise. It is time for chronicle of the
+  high courage, the reckless daring, and oftentimes the noble self-sacrifice of those
+  who use the Seven Seas to extend the markets of the world, to bring nations nearer
+  together, to advance science, and to cement the world into one great interdependent
+  whole"--Introd.'
+gutenberg_issued: '2005-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15648'
+language: en
+publication_note: "New York\r\nDodd, Mead & Company\r\nThe Caxton Press\r\nNew York.\r\
+  \n1902"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Merchant marine -- United States -- History'
+- !lcc 'VK'
+title: American Merchant Ships and Sailors
+url: http://www.gutenberg.org/ebooks/15648
